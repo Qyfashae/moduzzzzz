@@ -1,5 +1,5 @@
 from collections import deque # Algo modul för flödde och matchning
-
+from this import *
 '''globals'''
 # Lägga till vid senare tillfälle vid implement av function av dash
 
